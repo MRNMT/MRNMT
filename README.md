@@ -3,6 +3,7 @@
 
 💼 **A passionate Digital Solutions Architect**  
 📫 **How to reach me:** [nelsonmadileng57@gmail.com](mailto:nelsonmadileng57@gmail.com)  
+**linked-in:**  [https://www.linkedin.com/notifications/ ](https://www.linkedin.com/in/nelson-madileng-4b64a928b/)
 
 
 ---
