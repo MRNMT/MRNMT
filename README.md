@@ -1,67 +1,64 @@
-## Hi there 👋
 
-<!--
-**MRNMT/MRNMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Nelson Madileng
 
-Here are some ideas to get you started:
+💼 **A passionate Digital Solutions Architect**  
+📫 **How to reach me:** [nelsonmadileng57@gmail.com](mailto:nelsonmadileng57@gmail.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Avatar Package — Software Developer Headshot
-
-**Files included**
-- `avatar-1024.png` — High-resolution square (1024×1024) ideal for profile banners and larger displays.  
-- `avatar-512.png` — Standard profile size (512×512). Good balance of quality and file size.  
-- `avatar-400.png` — Optimized for sites that require smaller uploads (400×400).  
-- `avatar-circle.png` — Same content with transparent background and circular crop for platforms that support PNG transparency.  
-- `README.md` — This file.
-
-> Note: If your filenames differ, rename them or update references below accordingly.
 
 ---
 
-## Description
-This package contains a professional-looking software developer headshot optimized for use as a GitHub avatar (or other social/dev platforms). The images are cropped and sized to make it easy to upload and display crisply across devices.
+## 🌱 Currently Learning
+- DevOps  
+- Systems Design  
+- Internet of Things (IoT)  
 
 ---
 
-## Recommended sizes & formats
-- GitHub recommends a square image. Any square PNG/JPEG works fine.  
-- Common sizes to provide good results:
-  - **1024×1024** — high resolution (useful if you also want to use the image elsewhere)
-  - **512×512** — ideal for profile avatars
-  - **400×400** — smaller alias for speed
-- Use **PNG** for transparency or slight compression artifacts; **JPEG** if you prefer smaller file sizes with photography.
+## ⚡ Fun Fact
+> The Universe is mental.  
 
 ---
 
-## How to upload as GitHub avatar
-1. Sign in to GitHub and go to your profile (click your avatar → **Your profile**).  
-2. Click **Edit profile** (on the right).  
-3. Click your current avatar image area (or the camera icon) → **Upload new picture**.  
-4. Choose one of the files from this package (e.g., `avatar-512.png`).  
-5. Adjust the crop/zoom preview if needed, then click **Set new profile picture**.  
-6. Save profile changes.
+## 🛠 Tech Stack
+**Programming Languages**  
+💻 Python | C++ | Java  
 
-Tip: Use `avatar-circle.png` only if the site preserves transparency; otherwise use one of the square images.
+**Web & Mobile Development**  
+🌐 HTML | CSS | JavaScript | Node.js | React.js | React Native  
+
+**Databases**  
+🛢 MySQL | MongoDB  
+
+**Version Control**  
+🔧 Git  
+
+**Design & Prototyping**  
+🖥 UI/UX | Figma | Photoshop | InDesign  
 
 ---
 
-## Cropping & framing tips
-- Keep the subject centered and leave a little headroom (top margin) so circular crops don’t cut off hair.  
-- Aim for the face to occupy ~60–75% of the frame for best visibility at small sizes.  
-- If you crop yourself, export as a square image (1:1 aspect ratio).
+## 🔧 Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+</p>
 
 ---
 
-## License & attribution
-You may use these images for personal or professional profiles (including GitHub).  
-If you redistribute or use it in public projects, please include credit in an appropriate place:
+⭐ **Feel free to connect and collaborate!**
+
 
