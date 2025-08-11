@@ -5,9 +5,7 @@
 📫 **How to reach me:** [nelsonmadileng57@gmail.com](mailto:nelsonmadileng57@gmail.com)  
 **linked-in:**  [https://www.linkedin.com/notifications/ ](https://www.linkedin.com/in/nelson-madileng-4b64a928b/)
 
-
 ---
-
 ## 🌱 Currently Learning
 - DevOps  
 - Systems Design  
@@ -39,7 +37,7 @@
 ---
 
 ## 🔧 Languages & Tools
-<p align="left">
+<p align="left" diplay="block">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
